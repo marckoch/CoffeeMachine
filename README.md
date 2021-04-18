@@ -1,6 +1,6 @@
 # Jetbrains Academy - Coffee Machine
 
-My solutions for the Jetbrains Academy Problem Coffe Machine
+My solutions for the Jetbrains Academy Problem Coffee Machine
 
 https://hyperskill.org/projects/67
 
